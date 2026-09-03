@@ -17,6 +17,10 @@ on:
 
 jobs:
   test:
+    # Skipped in the template repository itself, which holds no project to test.
+    # A repository created from this template has a different name, so CI runs
+    # there and fails until the placeholder below is replaced.
+    if: github.repository != 'CSCI-40500-77100-Fall-2026/Project'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

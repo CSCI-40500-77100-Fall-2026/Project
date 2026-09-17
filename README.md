@@ -9,8 +9,12 @@
 
 ## Product Vision
 
-<One paragraph. For whom, what problem, and why this is worth building. See
-Engineering Software Products ch. 1.>
+<Use the vision template from Engineering Software Products ch. 1: FOR (target
+customer) WHO (statement of need or opportunity), THE (product name) IS A
+(product category) THAT (key benefit, compelling reason to buy), UNLIKE
+(primary competitive alternative), OUR PRODUCT (statement of primary
+differentiation). Fill every slot. A flowing paragraph and labeled slots are
+both acceptable. Table 1.2 lists where to get the information.>
 
 ## Running It
 

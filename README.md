@@ -5,8 +5,6 @@
 
 **Group:** <group name>
 
-**Members:** <name (GitHub handle)>, <name (GitHub handle)>, ...
-
 ## Product Vision
 
 <Use the vision template from Engineering Software Products ch. 1: FOR (target
@@ -38,8 +36,9 @@ See [docs/architecture.md](docs/architecture.md).
 
 ## Working Agreement
 
-This repository is the single home for the group's work, and its **commit
-history is part of what is assessed**. That means:
+This repository is the single home for the group's work. Develop here
+throughout the semester rather than working elsewhere and uploading the result
+at the end.
 
 - Commit your own work under your own account. Do not hand a teammate your
   changes to commit for you.

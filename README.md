@@ -40,7 +40,8 @@ both acceptable. Table 1.2 lists where to get the information.>
 
 ## Architecture
 
-See [docs/architecture.md](docs/architecture.md).
+See [docs/architecture.md](docs/architecture.md) and, for the microservice,
+[docs/microservice.md](docs/microservice.md).
 
 ## Working Agreement
 

@@ -43,6 +43,10 @@ both acceptable. Table 1.2 lists where to get the information.>
 See [docs/architecture.md](docs/architecture.md) and, for the microservice,
 [docs/microservice.md](docs/microservice.md).
 
+## Security and Privacy
+
+See [docs/security-privacy.md](docs/security-privacy.md).
+
 ## Working Agreement
 
 This repository is the single home for the group's work. Develop here
